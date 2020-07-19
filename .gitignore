@@ -2,6 +2,7 @@
 images
 planet-understanding-the-amazon-from-space
 .ipynb_checkpoints
-
+.idea
 ## These files
 planet-understanding-the-amazon-from-space.zip
+.DS_store
