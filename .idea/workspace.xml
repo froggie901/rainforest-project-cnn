@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7ec829-5ef1-45b6-9334-23a5d659594b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data-vis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planet-understanding-the-amazon-from-space/train_v2.csv/train_v2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_v2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rainforest-project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rainforest-project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rainforest-project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-prep.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,20 +15,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="35655b62-d527-4365-be3c-722a94df3fbb" />
+  <component name="JupyterTrust" id="35655b62-d527-4365-be3c-722a94df3fbb">
+    <option name="files">
+      <option value="data-vis.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1eq83ju3OFrgIP2wkt9XEc5wPcZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -39,6 +48,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="RainbowCSV.Settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -63,12 +77,15 @@
       <option name="presentableId" value="Default" />
       <updated>1595037566055</updated>
       <workItem from="1595037570480" duration="5665000" />
-      <workItem from="1595182719887" duration="3104000" />
+      <workItem from="1595182719887" duration="4250000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="128" key="#xdebugger.XInspectDialog" timestamp="1595185440333">
