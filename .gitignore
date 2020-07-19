@@ -1,2 +1,7 @@
 # Don't track content of these folders
 images
+planet-understanding-the-amazon-from-space
+.ipynb_checkpoints
+
+## These files
+planet-understanding-the-amazon-from-space.zip
