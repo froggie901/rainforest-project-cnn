@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb7ec829-5ef1-45b6-9334-23a5d659594b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_cleaning.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planet-understanding-the-amazon-from-space/train_v2.csv/train_v2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/train_v2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rainforest-project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rainforest-project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="RainbowCSV.Settings" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -61,11 +62,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595037566055</updated>
-      <workItem from="1595037570480" duration="5424000" />
+      <workItem from="1595037570480" duration="5665000" />
+      <workItem from="1595182719887" duration="3104000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="128" key="#xdebugger.XInspectDialog" timestamp="1595185440333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="128" key="#xdebugger.XInspectDialog/0.0.1440.900@0.0.1440.900" timestamp="1595185440333" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1595182741998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595182741998" />
+    <state x="384" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1595182813875">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="384" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1595182813875" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1595184631787">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595184631787" />
   </component>
 </project>
